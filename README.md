@@ -1,2 +1,2 @@
-# PyTorch-Repository
-This repository contains pytorch files
+# PyTorch Repository
+This repository contains basic pytorch notebooks and deep learning models.
